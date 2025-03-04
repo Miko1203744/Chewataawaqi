@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -38,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+# Ignore system files
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+NTUSER.*
+.vscode/
+.idea/
+
+>>>>>>> 1477b77e8aa363ea996b6b6deb26e20f86817821
