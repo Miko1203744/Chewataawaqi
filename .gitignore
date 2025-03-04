@@ -1,0 +1,15 @@
+# Ignore system files
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+NTUSER.*
+.vscode/
+.idea/
+
